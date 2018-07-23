@@ -1,0 +1,4 @@
+TO:xxx@....co.jp
+Subject:[Ping OK] ログサーバ
+
+Pingの応答が復旧しました。
